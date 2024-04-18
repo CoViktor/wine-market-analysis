@@ -24,11 +24,11 @@ Welcome to the Wiwino Wine Market Analysis platform, an interactive, Tableau-bas
 
 ## Installation and Local Execution
 Follow these steps to get the application up and running on your local machine:
-# Clone the repository
+## Clone the repository
 git clone [https://github.com/DDDines/wiwino](https://github.com/CoViktor/wine-market-analysis.git)
 
-# Install the dependencies
+## Install the dependencies
 pip install -r requirements.txt
 
-# Tableau: 
+## Tableau: 
 Ensure Tableau is installed for local visualization functionality.
