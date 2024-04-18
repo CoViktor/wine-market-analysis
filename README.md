@@ -30,4 +30,5 @@ git clone [https://github.com/DDDines/wiwino](https://github.com/CoViktor/wine-m
 # Install the dependencies
 pip install -r requirements.txt
 
-# Tableau: Ensure Tableau is installed for local visualization functionality.
+# Tableau: 
+Ensure Tableau is installed for local visualization functionality.
