@@ -17,6 +17,9 @@ Welcome to the Wiwino Wine Market Analysis platform, an interactive, Tableau-bas
 - **Filters**: Employ filters to refine your analyses and tailor the visualizations to your needs.
 - **Visualization**: Delve into the data through intuitive tables and dynamic interactive charts.
 
+## Market insights
+Check out our [market insights](https://public.tableau.com/app/profile/viktor.cosaert/viz/Vivino_workbook_final/Story?publish=yes) here.
+
 ## Technologies Used
 - **Frontend**: Tableau
 - **Backend**: SQLite, SQL Python
